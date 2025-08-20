@@ -68,3 +68,10 @@ function sortearAmigo() {
     let resultado = document.getElementById('resultado');
     resultado.innerHTML = `El amigo sorteado es: <strong>${amigoSorteado}</strong>`;
 }
+
+function limpiarLista() {
+    amigos = []; // Vaciar el array de amigos
+    actualizarLista(); // Actualizar la lista en la interfaz
+    document.getElementById('resultado').innerHTML = ''; // Limpiar el resultado del sorteo
+    document.getElementById('amigo').value = ''; // Limpiar el campo de entrada
+}
