@@ -1,14 +1,24 @@
-# 🎁 Amigo Secreto – Challenge
+<div align="center">
+   <a href="https://github.com/JorgRodriguez/Challenge-amigo-secreto">
+    <img src="assets/palanca-de-mando.png" alt="Logo" width="100" height="100">
+   </a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/JorgRodriguez/Challenge-amigo-secreto)
-![GitHub last commit](https://img.shields.io/github/last-commit/JorgRodriguez/Challenge-amigo-secreto)
-![GitHub issues](https://img.shields.io/github/issues/JorgRodriguez/Challenge-amigo-secreto)
-![GitHub stars](https://img.shields.io/github/stars/JorgRodriguez/Challenge-amigo-secreto?style=social)
+   # 🎁 Amigo Secreto – Challenge
 
----
+   ![GitHub repo size](https://img.shields.io/github/repo-size/JorgRodriguez/Challenge-amigo-secreto)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/JorgRodriguez/Challenge-amigo-secreto)
+   ![GitHub issues](https://img.shields.io/github/issues/JorgRodriguez/Challenge-amigo-secreto)
+   ![GitHub stars](https://img.shields.io/github/stars/JorgRodriguez/Challenge-amigo-secreto?style=social)
+</div>
 
-## 📖 Descripción del proyecto  
-Este repositorio contiene una **aplicación web** desarrollada con **HTML**, **CSS** y **JavaScript**, cuyo propósito es **realizar un sorteo de amigo secreto**.  
+## 📖 Descripción del proyecto
+<div align="center">
+   <a href="https://github.com/JorgRodriguez/Challenge-amigo-secreto">
+    <img src="assets/amigo-secreto.png" alt="Logo" width="500" height="500">
+   </a>
+</div>
+
+Este repositorio contiene **una aplicación web** desarrollada con **HTML**, **CSS** y **JavaScript**, cuyo propósito es **realizar un sorteo de amigo secreto**.  
 
 Permite al usuario:  
 ✅ Registrar una lista de nombres.  
@@ -19,7 +29,6 @@ Permite al usuario:
 
 ## 🖼 Vista previa  
 ![Interfaz del aplicativo](assets/screenshot.png)  
-*(Puedes reemplazar esta imagen por una captura real de tu aplicación dentro de la carpeta `assets/`)*
 
 ---
 
@@ -41,11 +50,11 @@ Permite al usuario:
 
 ## 📂 Estructura del proyecto
 📦 Challenge-amigo-secreto
-┣ 📂 assets # Imágenes e íconos
-┣ 📜 index.html # Página principal
-┣ 📜 style.css # Estilos del proyecto
-┣ 📜 app.js # Lógica en JavaScript
-┗ 📜 README.md # Documentación
+   - assets → Imágenes e íconos
+   - index.html → Página principal
+   - style.css → Estilos del proyecto
+   - app.js → Lógica en JavaScript
+   - README.md → Documentación
 
 ---
 
@@ -83,6 +92,6 @@ Actualmente este proyecto no tiene licencia especificada. Puedes añadir una (ej
 
 👤 Autor
 
-Jorge Rodriguez
+Jorge Rodriguez - [LinkedIn](https://www.linkedin.com/in/jorg-rodriguez/) - jorg.rodriguez@outlook.com
 
-🔗 Repositorio en GitHub
+🔗 Project Link: [https://github.com/JorgRodriguez/Challenge-amigo-secreto](https://github.com/JorgRodriguez/Challenge-amigo-secreto)
